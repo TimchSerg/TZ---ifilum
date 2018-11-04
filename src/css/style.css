@@ -1,0 +1,27 @@
+
+.headers {
+  display: flex;
+  border-left: 3px solid #989898;
+  padding-left: 15px;
+  margin-bottom: 25px;
+  margin-top: 25px;
+  align-items: center;
+  margin-left: 3px;
+}
+
+.headers h1{
+  font-size: 28px;
+  color: #656565;
+  margin-right: 25px;
+  margin-bottom: 0px;
+}
+.header-line{
+  flex-grow: 2;
+  border-bottom: 1px solid #656565;
+}
+.form{
+  display:flex;
+  flex-wrap: wrap;
+  width: 100%;
+  justify-content: space-between;
+}
